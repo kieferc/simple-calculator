@@ -35,6 +35,10 @@ button {
   background-color: #4CAF50;
   color: white;
 }
+.delete {
+  background-color: #f44336;
+  color: white;
+}
 button:hover {
   background: #e0e0e0;
 }
